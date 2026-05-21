@@ -8,7 +8,7 @@
 
 ## Overview
 
-A deep MLP with residual connections, BatchNorm, and GELU activations — trained from scratch using PyTorch. Designed as a compute-efficient alternative to the FT-Transformer that still achieves competitive accuracy on large tabular datasets.
+A deep MLP with residual connections, BatchNorm, and GELU activations — trained from scratch using PyTorch.
 
 The architecture follows a simple principle: stack residual blocks wide rather than deep, let BatchNorm handle internal covariate shift, and use AMP fp16 to double throughput on the T4 GPU.
 
