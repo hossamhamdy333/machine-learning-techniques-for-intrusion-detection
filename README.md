@@ -86,7 +86,6 @@ Several attack classes contain fewer than 1,000 samples, making macro-level eval
 │   ├── tabnet/
 │   └── residual-mlp/
 │
-├
 ├── LICENSE
 └── README.md
 ```
