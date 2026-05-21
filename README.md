@@ -18,11 +18,11 @@ The repository is designed for reproducible experimentation on the **Kaggle free
 ## This repository focuses on:
 
 
-# Scalable IDS Pipelines: Building high-throughput data processing networks capable of parsing and normalizing massive NetFlow/IPFIX datasets without packet loss.
-# Dual-Architecture Benchmarking: Executing continuous, rigorous comparisons between traditional tree-based classifiers (`XGBoost`, `LightGBM`) and specialized tabular deep learning paradigms (`PyTorch`, `TabNet`).
-# Imbalance Robustness: Evaluating, engineering, and stabilizing model loss gradients under the severe class imbalances (often >99.9% benign) inherent to real-world network traffic.
-# Explainable AI (XAI): Transitioning from black-box heuristics to trusted automation by computing global and real-time local `SHAP` feature attribution vectors for security analysts.
-# Research Verification: Benchmarking architecture performance, False Positive Rates (FPR), and Macro F1-Scores directly against published academic baselines on the **NF-UQ-NIDS-v2** multi-source dataset.
+ Scalable IDS Pipelines: Building high-throughput data processing networks capable of parsing and normalizing massive NetFlow/IPFIX datasets without packet loss.
+ Dual-Architecture Benchmarking: Executing continuous, rigorous comparisons between traditional tree-based classifiers (`XGBoost`, `LightGBM`) and specialized tabular deep learning paradigms (`PyTorch`, `TabNet`).
+ Imbalance Robustness: Evaluating, engineering, and stabilizing model loss gradients under the severe class imbalances (often >99.9% benign) inherent to real-world network traffic.
+ Explainable AI (XAI): Transitioning from black-box heuristics to trusted automation by computing global and real-time local `SHAP` feature attribution vectors for security analysts.
+ Research Verification: Benchmarking architecture performance, False Positive Rates (FPR), and Macro F1-Scores directly against published academic baselines on the **NF-UQ-NIDS-v2** multi-source dataset.
 # Real-World Deployment: Bridging the gap between Jupyter Notebook prototyping and enterprise infrastructure using distributed stream processing (`Kafka`/`Spark`), line-rate inference engines (`ONNX Runtime`), and structural `SIEM` alerting layers.
 ---
 
