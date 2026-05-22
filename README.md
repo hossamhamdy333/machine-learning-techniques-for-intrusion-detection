@@ -739,5 +739,8 @@ torch==2.3.0
 
 **Hossam Hamdy**
 
+Gmail:
+[Email Me](mailto:hossam3759180@gmail.com)
+
 Kaggle:
 [https://www.kaggle.com/hossamhamdyfakry](https://www.kaggle.com/hossamhamdyfakry)
