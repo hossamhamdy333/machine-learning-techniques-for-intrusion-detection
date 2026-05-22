@@ -20,7 +20,7 @@ The repository is designed for reproducible experimentation on the **Kaggle free
 
  Scalable IDS Pipelines: Building high-throughput data processing networks capable of parsing and normalizing massive NetFlow/IPFIX datasets without packet loss. 
  
- Dual-Architecture Benchmarking: Executing continuous, rigorous comparisons between traditional tree-based classifiers (`XGBoost`, `LightGBM`) and specialized tabular deep learning paradigms (`PyTorch`, `TabNet`).
+ Dual-Architecture Benchmarking: Executing continuous, rigorous comparisons between traditional tree-based classifiers (`XGBoost`, `CatBoost`) and specialized tabular deep learning paradigms (`PyTorch`, `TabNet`).
  
  Imbalance Robustness: Evaluating, engineering, and stabilizing model loss gradients under the severe class imbalances (often >99.9% benign) inherent to real-world network traffic.
  
