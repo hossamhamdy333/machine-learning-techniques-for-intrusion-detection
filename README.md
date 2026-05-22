@@ -737,10 +737,10 @@ torch==2.3.0
 
 # Author
 
-**Hossam Hamdy**
+# Hossam Hamdy
 
-Gmail:
-[Email Me](mailto:hossam3759180@gmail.com)
+##  Connect with Me
+* **Gmail:** [hossam3759180@gmail.com](mailto:hossam3759180@gmail.com)
+* **Kaggle:** [hossamhamdyfakry](https://www.kaggle.com/hossamhamdyfakry)
 
-Kaggle:
-[https://www.kaggle.com/hossamhamdyfakry](https://www.kaggle.com/hossamhamdyfakry)
+
