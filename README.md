@@ -495,10 +495,10 @@ Examples observed directly from notebook outputs:
 
 | Model        | Approx Runtime | GPU Usage | Notes                  |
 | ------------ | -------------- | --------- | ---------------------- |
-| XGBoost      | ~45 min        | Moderate  | Fastest convergence    |
+| XGBoost      | ~120 min        | Moderate  | Fastest convergence    |
 | CatBoost     | ~50 min        | Moderate  | Most stable training   |
-| TabNet       | ~90 min        | High      | Most expensive model   |
-| Residual MLP | ~35 min        | Moderate  | Best neural efficiency |
+| TabNet       | ~100 min        | High      | Most expensive model   |
+| Residual MLP | ~40 min        | Moderate  | Best neural efficiency |
 
 ---
 
@@ -678,12 +678,12 @@ All notebooks are designed for:
 
 | Notebook      | Runtime |
 | ------------- | ------- |
-| EDA           | ~15 min |
-| Preprocessing | ~20 min |
-| XGBoost       | ~45 min |
+| EDA           | ~20 min |
+| Preprocessing | ~30 min |
+| XGBoost       | ~120 min |
 | CatBoost      | ~50 min |
-| TabNet        | ~90 min |
-| Residual MLP  | ~35 min |
+| TabNet        | ~100 min |
+| Residual MLP  | ~40 min |
 
 ---
 
