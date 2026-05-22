@@ -740,6 +740,6 @@ torch==2.3.0
 
 # Connect with Me
 * **Gmail:** [hossam3759180@gmail.com](mailto:hossam3759180@gmail.com)
-* **Kaggle:** [hossamhamdyfakry](https://kaggle.com)
+
 
 
