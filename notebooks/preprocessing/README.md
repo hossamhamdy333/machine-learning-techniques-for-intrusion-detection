@@ -82,6 +82,6 @@ Transforms the raw sampled data into clean, scaled, split arrays ready for model
 
 | Split | Rows | Features |
 |-------|------|---------|
-| Train | ~13.7M → subsampled to ~5.2M in model notebooks | 42 |
+| Train | ~13.7M → subsampled to ~5.2M in DL models notebooks | 42 |
 | Val | ~4.6M | 42 |
 | Test | ~4.6M | 42 |
