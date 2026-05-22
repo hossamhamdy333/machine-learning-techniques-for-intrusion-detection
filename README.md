@@ -735,12 +735,11 @@ torch==2.3.0
 
 ---
 
-# Author
+### Author
+**Hossam Hamdy**
 
-# Hossam Hamdy
-
-##  Connect with Me
+### Connect with Me
 * **Gmail:** [hossam3759180@gmail.com](mailto:hossam3759180@gmail.com)
-* **Kaggle:** [hossamhamdyfakry](https://www.kaggle.com/hossamhamdyfakry)
+* **Kaggle:** [hossamhamdyfakry](https://kaggle.com)
 
 
